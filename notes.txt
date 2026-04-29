@@ -1,0 +1,7 @@
+Day 1 linux basics
+today I learnt:
+ mkdir - creates a folder
+ cd - takes me to that folder
+ touch - creates an empty file
+ ls - list everything inside the file
+ code . - opens my files in vs code
