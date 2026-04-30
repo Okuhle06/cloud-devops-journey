@@ -1,0 +1,5 @@
+1. I managed to create 3 files, apple, banana and orange 
+2. I moved 2 files (apple & banana) in a folder fruits by first creating the folder using mkdir
+3. I then duplicated apple in the folder fruits by renaming the duplicate green-apple
+4. I then deleted banana file
+5. I cretaed a file summary.txt and here i am inside the file typing the above :)
