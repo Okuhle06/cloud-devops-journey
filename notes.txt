@@ -5,3 +5,12 @@ today I learnt:
  touch - creates an empty file
  ls - list everything inside the file
  code . - opens my files in vs code
+ git init - turns folder to a git project
+ git add - add my file eg git add notes.txt
+
+ day 2 linux basics
+ 1. touch: creates a file
+ 2. rm: deletes a file 
+ 3. mv: moves/ rename a file
+ 4. ls: lists the files available 
+ 5. cp: copy files
