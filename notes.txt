@@ -14,3 +14,4 @@ today I learnt:
  3. mv: moves/ rename a file
  4. ls: lists the files available 
  5. cp: copy files
+ 6. .. moves to a folde 2 steps ahead e.g marks/exams( .. moves me to folder marks)
