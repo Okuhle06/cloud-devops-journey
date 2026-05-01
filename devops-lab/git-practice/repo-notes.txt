@@ -1,0 +1,1 @@
+git tracks changes in files and its useful when a group of people are working on the same file and making changes at the same time. 
