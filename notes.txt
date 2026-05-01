@@ -7,6 +7,7 @@ today I learnt:
  code . - opens my files in vs code
  git init - turns folder to a git project
  git add - add my file eg git add notes.txt
+ git commit -m " ": commits files to github
 
  day 2 linux basics
  1. touch: creates a file
@@ -14,4 +15,26 @@ today I learnt:
  3. mv: moves/ rename a file
  4. ls: lists the files available 
  5. cp: copy files
- 6. .. moves to a folde 2 steps ahead e.g marks/exams( .. moves me to folder marks)
+ 6. .. moves to a folder 2 steps ahead e.g marks/exams( .. moves me to folder marks)
+
+ Day 3 linux understanding permissions
+ 1. r: read
+ 2. w: wright
+ 3. x: execute
+ 4. chmod: change permissions
+ 5. ls -l: view permissions
+ 6. ./ runs
+ 7. +x: makes file executable (add) for everyone
+ 8. -x: removes execution for everyone
+ 9. u+x: user executes
+ 10. g+x: group executes
+ 11. o+x: others executes
+ 12. -rw-r--r-- 1
+    -: file type
+    rw: user
+    r--: group
+    r--: other
+
+file operations: i learnt how to create, move, delete and copy files using mkdir, mv, rm and cp 
+paths: I learned how to navigate between folders and also how to use relative paths like ../ to access files without changing directories. This helped me manage files across different folders more efficiently.
+permissions: I learnt that permissions allow or denie users, groups or other to work on a file or make changes to that file -thus to execute.
